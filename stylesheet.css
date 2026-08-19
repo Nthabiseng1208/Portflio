@@ -331,7 +331,7 @@ section {
 }
 
 
-.progress-line.html {
+.progress-line.excel {
   width: 82%; 
 }
 
@@ -351,14 +351,14 @@ section {
   width: 75%;
 }
 
-.progress-line.Java{
+.progress-line.process{
   width: 80%;
 }
-.progress-line.React{
-  width: 70%;
+.progress-line.documentation{
+  width: 85%;
 }
 
-.progress-line.Firebase{
+.progress-line.modelling{
   width: 90%;
 }
 

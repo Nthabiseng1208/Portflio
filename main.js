@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
   new Typed(".text", {
-    strings: ["Aspiring Software Engineer"],
+    strings: ["Aspiring Business Analyst"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
